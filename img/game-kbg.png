@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#059669" rx="8"/>
+  <rect x="50" y="40" width="300" height="180" fill="#d1fae5" rx="4"/>
+  <text x="200" y="150" text-anchor="middle" fill="#064e3b" font-family="Arial" font-size="18" font-weight="bold">Game Mobile</text>
+  <circle cx="200" cy="240" r="15" fill="#d1fae5"/>
+</svg>
